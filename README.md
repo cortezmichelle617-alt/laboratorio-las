@@ -2,11 +2,11 @@
 
 ## 1. Datos generales
 
-- **Nombre completo:** Completar
+- **Nombre completo:** Andrea Michelle Cortez Delgado
 - **Carné:** Completar
-- **Correo institucional:**  Completar
-- **Asignatura:** Completar
-- **Fecha:** Completar
+- **Correo institucional:**  cortezmichelle617@gmail.com
+- **Asignatura:** LAS
+- **Fecha:** 08-11-2026
 
 ## 2. Descripción
 
